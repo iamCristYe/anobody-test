@@ -1,0 +1,146 @@
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    >
+  <channel>
+    <title>小人物 A Nobody</title>
+    <atom:link href="https://anobody.im/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://anobody.im/</link>
+    <description>一档探索内心、接纳自我、努力变优秀的播客，讲述来自各行各业小人物的工作、思考与生活，不限于欧洲生活、高效工作、海外求职、读书电影、美食旅行。欢迎发邮件到 anobody.fm@gmail.com</description>
+    <lastBuildDate>Mon, 20 Jul 2020 17:00:04 &#43;0200</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <language>zh-cn</language>
+    <copyright>anobody.im</copyright>
+    <itunes:subtitle>一档探索内心、接纳自我、努力变优秀的播客，讲述来自各行各业小人物的工作、思考与生活</itunes:subtitle>
+    <itunes:author>anobody.im</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <googleplay:author>anobody.im</googleplay:author>
+    <googleplay:email>anobody.fm@gmail.com</googleplay:email>
+    <itunes:summary>一档探索内心、接纳自我、努力变优秀的播客，讲述来自各行各业小人物的工作、思考与生活，不限于欧洲生活、高效工作、海外求职、读书电影、美食旅行。欢迎发邮件到 anobody.fm@gmail.com</itunes:summary>
+    <googleplay:description>一档探索内心、接纳自我、努力变优秀的播客，讲述来自各行各业小人物的工作、思考与生活，不限于欧洲生活、高效工作、海外求职、读书电影、美食旅行。欢迎发邮件到 anobody.fm@gmail.com</googleplay:description>
+    <itunes:owner>
+      <itunes:name>anobody.im</itunes:name>
+      <itunes:email>anobody.fm@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://static.anobody.im/images/banner3000.png" />
+    <googleplay:image href="http://static.anobody.im/images/banner3000.png"></googleplay:image>
+    <image>
+      <url>http://static.anobody.im/images/banner3000.png</url>
+      <title>小人物 A Nobody</title>
+      <link>https://anobody.im/</link>
+    </image>
+    <itunes:category text="Education">
+      <itunes:category text="Self-Improvement" /><itunes:category text="Careers" /></itunes:category><itunes:explicit>clean</itunes:explicit>
+    <googleplay:explicit>clean</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#36 听在美国印第安纳州的 PHD River 讲冒险故事</title>
+			    <itunes:title>听在美国印第安纳州的 PHD River 讲冒险故事</itunes:title>
+          <link>https://anobody.im/podcast/vol36/</link>
+          <pubDate>Mon, 20 Jul 2020 17:00:30 &#43;0200 </pubDate>
+          <dc:creator>anobody.im</dc:creator>
+          <guid>http://iamcristye.github.io/anobody-test/vol36.mp3</guid>
+          <itunes:author>anobody.im</itunes:author>
+          
+          <itunes:episode>36</itunes:episode>
+          
+        <itunes:summary>什么是红脖子州？它跟美国给大家印象中高科技、现代化、改变世界、白领精英的城市有什么不同？在与世隔绝、一望无际的玉米地，一个因签证回不了国的 PHD 留学生的生活和感受是怎么样的？因为当地哄抢事件 River 也‘被迫’买了把手枪防身，他会介绍如何合法拥有一支枪？持枪的注意事项。另外我们探讨了持枪防身的悖论，以及 River 伴着半夜 30 米开外的枪声入睡的体验，在混乱的美国生活如何识别危险气息并及时抽身.</itunes:summary>
+        <description>什么是红脖子州？它跟美国给大家印象中高科技、现代化、改变世界、白领精英的城市有什么不同？在与世隔绝、一望无际的玉米地，一个因签证回不了国的 PHD 留学生的生活和感受是怎么样的？因为当地哄抢事件 River 也‘被迫’买了把手枪防身，他会介绍如何合法拥有一支枪？持枪的注意事项。另外我们探讨了持枪防身的悖论，以及 River 伴着半夜 30 米开外的枪声入睡的体验，在混乱的美国生活如何识别危险气息并及时抽身.</description>
+        <googleplay:description>什么是红脖子州？它跟美国给大家印象中高科技、现代化、改变世界、白领精英的城市有什么不同？在与世隔绝、一望无际的玉米地，一个因签证回不了国的 PHD 留学生的生活和感受是怎么样的？因为当地哄抢事件 River 也‘被迫’买了把手枪防身，他会介绍如何合法拥有一支枪？持枪的注意事项。另外我们探讨了持枪防身的悖论，以及 River 伴着半夜 30 米开外的枪声入睡的体验，在混乱的美国生活如何识别危险气息并及时抽身.</googleplay:description>
+        <content:encoded><![CDATA[
+
+<h4 id="本期人物">👥本期人物：</h4>
+
+<p><a rel="nofollow" target="_blank" href="https://twitter.com/Bluesh0" title="阿乐 twitter">阿乐</a>
+、
+<a rel="nofollow" target="_blank" href="https://twitter.com/zoeinams" title="Zoe twitter">Zoe</a>
+、
+<a rel="nofollow" target="_blank" href="https://www.facebook.com/liu.he.71" title="river Facebook">River</a></p>
+
+<h4 id="时间轴">🕰时间轴：</h4>
+
+<ul>
+<li>01:54 红脖子州的特色，和美国梦中的美国不一样的地方</li>
+<li>07:20 被割裂的美国的另一面</li>
+<li>11:14 留学生也可以持枪吗？持枪防身的悖论</li>
+<li>14:15 如何合法拥有一支枪</li>
+<li>17:10 持枪注意事项，被偷了怎么办？</li>
+<li>20:28 跟抢有关的没有小故事都是大事故</li>
+<li>26:01 This is life，只能去融入、适应</li>
+<li>32:10 有枪和无枪的安全感：凌晨3点的伦敦黑夜</li>
+<li>37:54 嗅到危险的气息</li>
+</ul>
+
+<h4 id="相关信息">🔗相关信息：</h4>
+
+<p><a rel="nofollow" target="_blank" href="https://space.bilibili.com/426914310" title="阿乐杂货铺B站">- 阿乐杂货铺 B站</a></p>
+
+<p><a rel="nofollow" target="_blank" href="https://www.youtube.com/channel/UCknOww3EjCM6kX1K36FB85g" title="阿乐杂货铺Youtube">- 阿乐杂货铺 Youtube</a></p>
+
+<p><a rel="nofollow" target="_blank" href="https://music.163.com/#/djradio?id=794834536" title="小人物A Nobody podcast 播客上架网易云音乐">- 新上架网易云音乐</a></p>
+
+<p><a rel="nofollow" target="_blank" href="https://www.himalaya.com/anobody" title="Himalaya 小人物 A Nobody Podcast 直达链接">- Himalaya 小人物 A Nobody Podcast 直达链接</a></p>
+]]></content:encoded><itunes:image href="https://static.anobody.im/images/banner.png"></itunes:image>
+          <googleplay:image href="https://static.anobody.im/images/banner.png"></googleplay:image><enclosure url="https://chtbl.com/track/F8C6AG/static.anobody.im/audios/vol36.mp3" length="27425276" type="audio/mpeg" /><itunes:duration>40:58</itunes:duration></item>
+        <item>
+          <title>#35 Never on Time 粗犷和艺术并存的荷兰文化鄙见</title>
+			    <itunes:title>Never on Time 粗犷和艺术并存的荷兰文化鄙见</itunes:title>
+          <link>https://anobody.im/podcast/vol35/</link>
+          <pubDate>Tue, 7 Jul 2020 15:45:30 &#43;0200 </pubDate>
+          <dc:creator>anobody.im</dc:creator>
+          <guid>http://iamcristye.github.io/anobody-test/vol35.mp3</guid>
+          <itunes:author>anobody.im</itunes:author>
+          
+          <itunes:episode>35</itunes:episode>
+          
+        <itunes:summary>自行车王国到荷兰家居文化，结合最近看房买房的鄙见聊聊荷兰文化，像家居元素、二手集市、经常逛的Vintage的店、独立艺术展、小众电影、博物馆，大家对哪类感兴趣希望展开讨论的欢迎留言和发邮件，对于Never on Time 系列迫切希望多多收到大家的反馈</itunes:summary>
+        <description>自行车王国到荷兰家居文化，结合最近看房买房的鄙见聊聊荷兰文化，像家居元素、二手集市、经常逛的Vintage的店、独立艺术展、小众电影、博物馆，大家对哪类感兴趣希望展开讨论的欢迎留言和发邮件，对于Never on Time 系列迫切希望多多收到大家的反馈</description>
+        <googleplay:description>自行车王国到荷兰家居文化，结合最近看房买房的鄙见聊聊荷兰文化，像家居元素、二手集市、经常逛的Vintage的店、独立艺术展、小众电影、博物馆，大家对哪类感兴趣希望展开讨论的欢迎留言和发邮件，对于Never on Time 系列迫切希望多多收到大家的反馈</googleplay:description>
+        <content:encoded><![CDATA[
+
+<h4 id="本期人物">👥本期人物：</h4>
+
+<p><a rel="nofollow" target="_blank" href="https://twitter.com/Bluesh0" title="阿乐 twitter">阿乐</a>
+、
+<a rel="nofollow" target="_blank" href="https://twitter.com/zoeinams" title="Zoe twitter">Zoe</a>
+、
+小刘</p>
+
+<h4 id="时间轴">🕰时间轴：</h4>
+
+<ul>
+<li>00:19 自行车王国的烦恼</li>
+<li>01:53 不能放过每一个艳阳天</li>
+<li>04:58 书、壁炉、木质、绿植的家居元素，他们有没有真的在看书啊？</li>
+<li>08:59 二手文化和荷兰人的精明</li>
+<li>12:57 从二手到“捡垃圾”到环保主义</li>
+<li>17:14 反正挣不了大钱，还是投身于自己的爱好吧</li>
+<li>20:30 独立艺术文化</li>
+</ul>
+
+<h4 id="相关信息">🔗相关信息：</h4>
+
+<p><a href="https://anobody.im/podcast/vol15/">- #15 Never on Time 尼德兰跨年也太武德充沛了吧</a></p>
+
+<p><a href="https://anobody.im/podcast/vol29/">- #29 Never on Time 轻松向聊聊荷德三地、公寓独院感受到的欧洲日常</a></p>
+
+<p><a href="https://anobody.im/podcast/vol31/">- #31 Never on Time 在荷兰被裁员签证怎么办？如何保持自己的职场竞争力</a></p>
+
+<p><a rel="nofollow" target="_blank" href="https://space.bilibili.com/426914310" title="阿乐杂货铺B站">- 阿乐杂货铺 B站</a></p>
+
+<p><a rel="nofollow" target="_blank" href="https://www.youtube.com/channel/UCknOww3EjCM6kX1K36FB85g" title="阿乐杂货铺Youtube">- 阿乐杂货铺 Youtube</a></p>
+
+<p><a rel="nofollow" target="_blank" href="https://music.163.com/#/djradio?id=794834536" title="小人物A Nobody podcast 播客上架网易云音乐">- 新上架网易云音乐</a></p>
+
+<p><a rel="nofollow" target="_blank" href="https://www.himalaya.com/anobody" title="Himalaya 小人物 A Nobody Podcast 直达链接">- Himalaya 小人物 A Nobody Podcast 直达链接</a></p>
+]]></content:encoded><itunes:image href="https://static.anobody.im/images/banner.png"></itunes:image>
+          <googleplay:image href="https://static.anobody.im/images/banner.png"></googleplay:image><enclosure url="https://chtbl.com/track/F8C6AG/static.anobody.im/audios/vol35.mp3" length="15283595" type="audio/mpeg" /><itunes:duration>23:36</itunes:duration></item>
+</channel>
+</rss>
